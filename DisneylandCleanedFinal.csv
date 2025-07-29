@@ -1,0 +1,126 @@
+Restaurant,Location,Theme Park,Breakfast Price,Lunch/Dinner Price,Vegetarian Options,Type Of Service,Established
+Pym Tasting Lab,Avengers Campus,Disney California Adventure,$$,$$,Yes,Bar/Lounge,2021
+Pym Test Kitchen,Avengers Campus,Disney California Adventure,$$,$$,Yes,Quick Service,2021
+Shawarma PalaceUpdated,Avengers Campus,Disney California Adventure,$,$,Yes,Snack Cart,2021
+Terran Treats,Avengers Campus,Disney California Adventure,$,$,Yes,Snack Cart,2021
+Carthay Circle,Buena Vista Street,Disney California Adventure,$$$,$$$,Yes,Table Service,2012
+Carthay Circle Lounge,Buena Vista Street,Disney California Adventure,$$$,$$$,Yes,Bar/Lounge,2012
+Clarabelle's Hand-Scooped Ice Cream,Buena Vista Street,Disney California Adventure,$,$,Yes,Quick Service,2012
+"Fiddler, Fifer and Practical Cafe",Buena Vista Street,Disney California Adventure,$,$,Yes,Quick Service,2012
+Cozy Cones,Cars Land,Disney California Adventure,,$,Yes,Quick Service,2012
+Fillmore's Taste-In,Cars Land,Disney California Adventure,$,$,Yes,Kiosk,2012
+Flo's V-8 Cafe,Cars Land,Disney California Adventure,,$,Yes,Quick Service,2012
+Smokejumpers Grill,Grizzly Peak,Disney California Adventure,$,$,Yes,Quick Service,2015
+Award Wieners,Hollywood Land,Disney California Adventure,,$,Yes,Quick Service,2001
+Fairfax Market (DCA),Hollywood Land,Disney California Adventure,$,$,Yes,Kiosk,2001
+Hollywood Lounge,Hollywood Land,Disney California Adventure,$,$,Yes,Snack Cart,2001
+Schmoozies,Hollywood Land,Disney California Adventure,$,$,Yes,Kiosk,2001
+Studio Catering Co.,Hollywood Land,Disney California Adventure,,$,No,Kiosk,2001
+Bayside Brews,Paradise Gardens Park,Disney California Adventure,,$,Yes,Quick Service,2011
+Boardwalk Pizza and Pasta,Paradise Gardens Park,Disney California Adventure,,$,Yes,Quick Service,2001
+Corn Dog Castle,Paradise Gardens Park,Disney California Adventure,$,$,Yes,Kiosk,2001
+Paradise Garden Grill,Paradise Gardens Park,Disney California Adventure,,$,Yes,Quick Service,2011
+Magic Key Terrace,Performance Corridor,Disney California Adventure,,$$,Yes,Table Service,2021
+Mendocino Terrace,Performance Corridor,Disney California Adventure,$$,$$,Yes,Quick Service,2021
+Sonoma Terrace,Performance Corridor,Disney California Adventure,$,$,Yes,Quick Service,2001
+Wine Country Trattoria,Performance Corridor,Disney California Adventure,,$$,Yes,Table Service,2001
+Adorable Snowman Frosted Treats,Pixar Pier,Disney California Adventure,$,$,Yes,Kiosk,2018
+Angry Dogs,Pixar Pier,Disney California Adventure,$,$,No,Kiosk,2018
+Jack-Jack's Cookie Num Nums,Pixar Pier,Disney California Adventure,$,$,Yes,Kiosk,2018
+Lamplight Lounge Dining Room,Pixar Pier,Disney California Adventure,$$,$$,Yes,Table Service,2018
+Lamplight Lounge- Boardwalk Dining,Pixar Pier,Disney California Adventure,,,Yes,Bar/Lounge,2018
+Poultry Palace,Pixar Pier,Disney California Adventure,$,$,No,Kiosk,2018
+Señor Buzz Churros,Pixar Pier,Disney California Adventure,$,$,Yes,Kiosk,2018
+Aunt Cass Cafe,San Fransokyo Square,Disney California Adventure,,$,Yes,Quick Service,2023
+Cappuccino Cart,San Fransokyo Square,Disney California Adventure,$,$,Yes,Kiosk,2001
+Cocina Cucamonga Mexican Grill,San Fransokyo Square,Disney California Adventure,,$,Yes,Quick Service,2001
+Ghirardelli Soda Fountain and Chocolate Shop,San Fransokyo Square,Disney California Adventure,$,$,Yes,Quick Service,2012
+Lucky Fortune Cookery,San Fransokyo Square,Disney California Adventure,,$,Yes,Quick Service,2023
+Port of San Fransokyo Cervecería,San Fransokyo Square,Disney California Adventure,,$,Yes,Quick Service,2023
+Rita's Turbine Blenders,San Fransokyo Square,Disney California Adventure,$,$,Yes,Kiosk,2023
+Bengal Barbecue,Adventureland,Disneyland Park,$,$,Yes,Quick Service,1992
+Tiki Juice Bar,Adventureland,Disneyland Park,$,$,Yes,Kiosk,2021
+Tropical Hideaway,Adventureland,Disneyland Park,$,$,Yes,Quick Service,2018
+Tropical Imports,Adventureland,Disneyland Park,$,$,Yes,Quick Service,1967
+Harbour Galley,Bayou Country,Disneyland Park,,$,Yes,Quick Service,2021
+Hungry Bear Barbecue Jamboree,Bayou Country,Disneyland Park,,$$,Yes,Quick Service,2024
+Edelweiss Snacks,Fantasyland,Disneyland Park,$,$,Yes,Kiosk,2009
+Maurice's Treats,Fantasyland,Disneyland Park,$,$,Yes,Snack Cart,2013
+Red Rose Taverne,Fantasyland,Disneyland Park,$,$,Yes,Quick Service,2017
+Troubadour TavernUpdated,Fantasyland,Disneyland Park,$,$,Yes,Kiosk,1983
+Golden Horseshoe,Frontierland,Disneyland Park,,$,No,Quick Service,1955
+Rancho del Zocalo,Frontierland,Disneyland Park,,$,Yes,Quick Service,2001
+River Belle Terrace,Frontierland,Disneyland Park,$,$$$,Yes,Table Service,1955
+Stage Door Cafe,Frontierland,Disneyland Park,,$,Yes,Quick Service,1978
+Carnation Cafe,"Main Street, U.S.A.",Disneyland Park,$,$$,Yes,Table Service,1955
+Coca-Cola Refreshment Corner,"Main Street, U.S.A.",Disneyland Park,,$,Yes,Quick Service,1955
+Gibson Girl Ice Cream Parlor,"Main Street, U.S.A.",Disneyland Park,$,$,Yes,Kiosk,1997
+Jolly Holiday Bakery Cafe,"Main Street, U.S.A.",Disneyland Park,$,$,Yes,Quick Service,1997
+Market House,"Main Street, U.S.A.",Disneyland Park,$,$,Yes,Quick Service,1955
+Plaza Inn,"Main Street, U.S.A.",Disneyland Park,$$,$$,Yes,Buffet,1965
+Blue Bayou,New Orleans Square,Disneyland Park,,$$$,Yes,Table Service,1967
+Cafe Orleans,New Orleans Square,Disneyland Park,,$$,Yes,Table Service,1966
+Mint Julep Bar,New Orleans Square,Disneyland Park,$,$,Yes,Kiosk,1966
+Royal Street Veranda,New Orleans Square,Disneyland Park,,$,Yes,Quick Service,1955
+Tiana's Palace,New Orleans Square,Disneyland Park,,$,Yes,Quick Service,2023
+Docking Bay 7 Food and Cargo,Star Wars: Galaxy's Edge,Disneyland Park,$,$,Yes,Quick Service,2019
+Kat Saka's Kettle,Star Wars: Galaxy's Edge,Disneyland Park,$,$,Yes,Quick Service,2021
+Milk Stand,Star Wars: Galaxy's Edge,Disneyland Park,$,$,Yes,Quick Service,2019
+Oga's Cantina DLR,Star Wars: Galaxy's Edge,Disneyland Park,$$,$$,Yes,Bar/Lounge,2019
+Ronto Roasters,Star Wars: Galaxy's Edge,Disneyland Park,$,$,Yes,Quick Service,2019
+"Alien Pizza Planet - ""A Better Place""",Tomorrowland,Disneyland Park,,$$,Yes,Quick Service,2018
+Galactic Grill,Tomorrowland,Disneyland Park,$,$$,Yes,Quick Service,2001
+Cafe Daisy,Toontown,Disneyland Park,$,$,Yes,Quick Service,2023
+Good Boy! Grocers,Toontown,Disneyland Park,$,$,Yes,Quick Service,2023
+Arthur & Sons Steak and Bourbon,Downtown Disney,Downtown Disney,,$$$,No,Table Service,TBA
+Ballast Point,Downtown Disney,Downtown Disney,,$$,Yes,Table Service,2019
+Beignets Expressed,Downtown Disney,Downtown Disney,$,$,Yes,Quick Service,2023
+Black Tap Craft Burgers and Shakes,Downtown Disney,Downtown Disney,,$$,Yes,Quick Service,2019
+Blue Ribbon Corn Dogs Disneyland,Downtown Disney,Downtown Disney,$,$,Yes,Kiosk,2024
+Céntrico,Downtown Disney,Downtown Disney,,$$,Yes,Table Service,2024
+Clyde's Hot Chicken,Downtown Disney,Downtown Disney,$,$,No,Quick Service,2019
+Diggity Dogs,Downtown Disney,Downtown Disney,$,$,No,Snack Cart,2009
+Din Tai Fung,Downtown Disney,Downtown Disney,,$$$,Yes,Table Service,2024
+Earl of Sandwich,Downtown Disney,Downtown Disney,$,$,Yes,Quick Service,2012
+Earl of Sandwich Tavern Restaurant & Bar,Downtown Disney,Downtown Disney,,$$,Yes,Table Service,2012
+GG's Chicken Shop,Downtown Disney,Downtown Disney,$,$,Yes,Quick Service,2025
+Jamba,Downtown Disney,Downtown Disney,$,$,Yes,Quick Service,2020
+Jazz Kitchen Coastal Grill & Patio,Downtown Disney,Downtown Disney,,$$$,Yes,Table Service,2023
+Kayla's Cake,Downtown Disney,Downtown Disney,$,$,Yes,Quick Service,2025
+Naples,Downtown Disney,Downtown Disney,$$,$$,Yes,Table Service,2019
+NapoliniUpdated,Downtown Disney,Downtown Disney,,$,Yes,Quick Service,2019
+Paseo,Downtown Disney,Downtown Disney,$$,$$,Yes,Table Service,2024
+Pearl’s Roadside BBQ,Downtown Disney,Downtown Disney,$$,$$,Yes,Quick Service,TBA
+Salt & Straw DLRUpdated,Downtown Disney,Downtown Disney,$,$,Yes,Quick Service,2018
+Seoul Sister,Downtown Disney,Downtown Disney,$,$,Yes,Quick Service,2025
+Sip & Sonder,Downtown Disney,Downtown Disney,$,$,Yes,Quick Service,2025
+Splitsville Luxury Lanes,Downtown Disney,Downtown Disney,$$,$$,Yes,Table Service,2018
+Starbucks Downtown Disney,Downtown Disney,Downtown Disney,$,$,Yes,Quick Service,2014
+Starbucks West Downtown Disney,Downtown Disney,Downtown Disney,$,$,Yes,Quick Service,2014
+The Carnaby Tavern,Downtown Disney,Downtown Disney,$$,$$,Yes,Table Service,TBA
+The Funnel Cakery,Downtown Disney,Downtown Disney,$,$,Yes,Quick Service,2014
+Tiendita,Downtown Disney,Downtown Disney,$,$,Yes,Quick Service,2024
+Tortilla Jo's,Downtown Disney,Downtown Disney,,$$,Yes,Table Service,2004
+Vista Parkside Market,Downtown Disney,Downtown Disney,$$,$$,Yes,Bar/Lounge,2025
+Wetzel's Pretzels,Downtown Disney,Downtown Disney,$,$,Yes,Quick Service,2018
+Disneyland Hotel In-Room Dining,Disneyland Hotel,Hotels,,$$,Yes,Room Service,1955
+Goofy's KitchenUpdated,Disneyland Hotel,Hotels,$$,$$,Yes,Buffet,1992
+Steakhouse 55,Disneyland Hotel,Hotels,$$$,$$$,Yes,Table Service,2006
+Tangaroa Terrace Tropical Bar & Grill,Disneyland Hotel,Hotels,$,$,Yes,Quick Service,2019
+The Coffee House,Disneyland Hotel,Hotels,$,$,Yes,Quick Service,1955
+The Lounge,Disneyland Hotel,Hotels,,$,Yes,Bar/Lounge,2025
+Trader Sam's Enchanted Tiki Bar,Disneyland Hotel,Hotels,$,$,Yes,Table Service,2011
+Great Maple,Disney's Pixar Place Hotel,Hotels,$$,$$,Yes,Table Service,2023
+Sketch Pad Café,Disney's Pixar Place Hotel,Hotels,$,$,Yes,Quick Service,2024
+Small Bytes,Disney's Pixar Place Hotel,Hotels,$,$,Yes,Bar/Lounge,2024
+GCH Craftsman Bar,Grand Californian,Hotels,$$,$$,Yes,Bar/Lounge,2019
+GCH Craftsman GrillUpdated,Grand Californian,Hotels,$$,$$,Yes,Table Service,2019
+Grand Californian In-Room Dining,Grand Californian,Hotels,$,$,Yes,Room Service,2021
+Hearthstone Lounge,Grand Californian,Hotels,$$,$$,Yes,Table Service,2019
+Napa Rose,Grand Californian,Hotels,,$$$,Yes,Table Service,2001
+Napa Rose Lounge,Grand Californian,Hotels,,$$$,Yes,Bar/Lounge,2001
+Storyteller's Cafe,Grand Californian,Hotels,$$,$$,Yes,Buffet,2001
+Paradise Pier In-Room Dining,Paradise Pier Hotel,Hotels,$,$,Yes,Room Service,1984
+PCH Grill,Paradise Pier Hotel,Hotels,,$$,Yes,Buffet,2001
+Surfside Lounge,Paradise Pier Hotel,Hotels,$$,$$,Yes,Bar/Lounge,2000
+Palm Breeze Bar,Villas at the Disneyland Hotel,Hotels,$$,$$,Yes,Bar/Lounge,2023
